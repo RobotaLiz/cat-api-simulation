@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Mittens",
+    "age": 2,
+    "breed": "Siamese",
+    "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQSJew-DqxL_YDzyHUUkb_tALY--YLWibmMI2pa4KsKhkMoaIGn"
+  },
+  {
+    "id": 2,
+    "name": "Fluffy",
+    "age": 4,
+    "breed": "Persian",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/81/Persialainen.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Whiskers",
+    "age": 1,
+    "breed": "Maine Coon",
+    "image": "https://www.purina.se/sites/default/files/2021-02/CAT%20HERO_0012_Maine_coon.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Shadow",
+    "age": 5,
+    "breed": "Bengal",
+    "image": "https://www.dailypaws.com/thmb/SgHjwVWrjBliHcmCmnfyNP2T6t8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/bengal-wood-walking-867775498-2000-f79225d86f32493998e5cdd98451da82.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Luna",
+    "age": 3,
+    "breed": "Russian Blue",
+    "image": "https://rawznaturalpetfood.com/wp-content/uploads/russian-blue-cats.jpg"
+  }
+]
